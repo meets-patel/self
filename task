@@ -1,0 +1,25 @@
+Day: 02
+Today's Agenda
+-------------------
+
+Configure and setup two machines
+1. Database server
+2. Web Server
+
+Git clone the application
+https://github.com/sunbeam-ditiss/KartvyaPath-Project.git
+
+Do the required the changes and check is application is working or not.
+
+----------------------------------
+
+
+ Day: 03
+
+Today's Agenda
+
+Access the flask application on https://todo.sunbeam.local
+
+Create certificates for the above
+
+domains and do the required changes in the application
